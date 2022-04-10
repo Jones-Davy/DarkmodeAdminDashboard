@@ -597,7 +597,7 @@ font-weight: 600;
     }
 
     aside {
-        position: fixed;
+        position: static;
         left: -100%;
         background: var(--color-white);
         width: 18rem;
